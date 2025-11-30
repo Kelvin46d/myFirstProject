@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Right image section */
+.login-image {
+    background: url('images/food-banner.jpg') no-repeat center center/cover;
+    position: relative;
+    padding: 20px;
+}
+
+.overlay-text{
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    color:black;
+    max-width: 300px;
+}
+
+/* Form section */
+.login-container {
+    min-height: 100vh;
+}
+
+#loginForm input {
+    height: 45px;
+}
+
+#loginForm button {
+    height: 45px;
+    font-size: 16px;
+}

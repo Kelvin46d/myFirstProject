@@ -1,0 +1,5 @@
+[
+    {"id":1,"name":"Burger","price":5.99,"image":"burger.jpg"},
+    {"id":2,"name":"Pizza","price":8.99,"image":"pizza.jpg"},
+    {"id":3,"name":"Sushi","price":12.99,"image":"sushi.jpg"}
+]
